@@ -16,6 +16,9 @@
   "bugs": {
     "url": "https://github.com/workylab/materialize-angular/issues"
   },
+  "scripts": {
+    "postinstall": "node scripts/postinstall || echo \"ignore\""
+  },
   "keywords": [
     "angular",
     "angular-library",
