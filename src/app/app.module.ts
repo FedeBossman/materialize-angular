@@ -24,6 +24,7 @@ import { MaterializeInputModule } from './completed-components/input/input.modul
 import { MaterializeLabelModule } from './completed-components/label/label.module';
 import { MaterializeModalModule } from './completed-components/modal/modal.module';
 import { MaterializeNavbarModule } from './completed-components/navbar/navbar.module';
+import { MaterializeProgressBarModule } from './completed-components/progress-bar/progress-bar.module';
 import { MaterializeRadioGroupModule } from './completed-components/radio-group/radio-group.module';
 import { MaterializeScrollSpyModule } from './completed-components/scroll-spy/scroll-spy.module';
 import { MaterializeSelectModule } from './completed-components/select/select.module';
@@ -62,6 +63,7 @@ import { NgModule } from '@angular/core';
     MaterializeInputModule,
     MaterializeModalModule,
     MaterializeNavbarModule,
+    MaterializeProgressBarModule,
     MaterializeRadioGroupModule,
     MaterializeScrollSpyModule,
     MaterializeStepperModule,
